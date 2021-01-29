@@ -7,6 +7,11 @@ For more information go to: https://github.com/Gepardec/github-wiki-training/wik
 #### Example Code  
   
 The code in this repository is just a simple "Hello World!"-Application which only has the purpose of not leaving the repository empty.  
+
+#### Quick start
+  
+1. Change some code
+2. use the provided mvnwrapper script with additional parameter test to find out if your code still compiles
   
 ### Prerequisites for the workshop  
   
